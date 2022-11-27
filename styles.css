@@ -1,0 +1,25 @@
+.cad {
+
+ 
+}
+
+body{
+
+    background-color: rgb(97, 117, 117);
+
+}
+
+
+
+.caixa{
+    width: 30%;
+    height: 40;
+background-color: rgb(156, 156, 233);
+margin: 5%;
+
+}
+
+.form {
+    width: 50%;
+    
+}
